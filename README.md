@@ -1,5 +1,5 @@
 # <div align="center">**Hi👋, I'm Rahul Kuanr**</div>
-### <div align="center">**An Indian software engineer🧑🏼‍💻 and Tech enthusiast.**</div>
+### <div align="center">**An Indian Software Developer🧑🏼‍💻 and Tech enthusiast.**</div>
 
 ![](https://komarev.com/ghpvc/?username=rahulkuanr&color=green&style=flat)
 
