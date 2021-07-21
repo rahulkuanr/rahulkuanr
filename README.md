@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API">WebSockets</a>
 - 👀 Ask me about Python, Django
-- 📫 How to reach me --> rahulkuanr@gmail.com
+- 📫 How to reach me --> **rahulkuanr@gmail.com**
 
 
 <h3>Connect with me:</h3>
