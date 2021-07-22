@@ -8,13 +8,13 @@
 - 👀 Ask me about Python, Django
 - 📫 How to reach me --> **rahulkuanr@gmail.com**
 - ⚡ Fun fact: I love playing Table Tennis and Computer/PvP games.
-
+<br/><br/>
 
 <h3>Connect with me:</h3>
 
 
 <a href="https://www.linkedin.com/in/rahulkuanr/"><img class=“sm_icon“ src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30px height=30px></a>
-
+<br/><br/>
 
 <h3>Languages & Tools: </h3>
 
@@ -53,7 +53,8 @@
 <a class="pr-5" href=""><img class=“sm_icon“ src="" width=30px height=30px></a>
 <a class="pr-5" href=""><img class=“sm_icon“ src="" width=30px height=30px></a>
 <a class="pr-5" href=""><img class=“sm_icon“ src="" width=30px height=30px></a>-->
-
+<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkuanr&theme=tokyonight&show=javascript)
 
 
 <!---
