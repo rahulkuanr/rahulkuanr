@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=rahulkuanr&color=green&style=flat)
 
 
-- 🌱 I’m currently learning <a href="https://reactjs.org/">ReactJS</a>
+- 🌱 I’m currently learning <a href="https://microservices.io/">Microservices</a>, <a href="https://reactjs.org/">ReactJS</a>
 - 👀 Ask me about Python, Django
 - 📫 How to reach me --> **rahulkuanr@gmail.com**
 - ⚡ Fun fact: I love playing Table Tennis and Computer/PvP games.
