@@ -13,7 +13,7 @@
 <h3>Connect with me:</h3>
 
 
-<a href="https://www.linkedin.com/in/rahulkuanr/"><img class=“sm_icon“ src="https://image.flaticon.com/icons/png/512/174/174857.png" width=30px height=30px></a>
+<a href="https://www.linkedin.com/in/rahulkuanr/"><img class=“sm_icon“ src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width=30px height=30px></a>
 <br/><br/>
 
 
