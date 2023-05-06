@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=rahulkuanr&color=green&style=flat)
 
 
-- 🌱 I’m currently learning MEAN/MERN stack
+- 🌱 I’m currently learning MERN stack
 - 👀 Ask me about Angular, Sitecore
 - 📫 How to reach me --> **rahulkuanr@gmail.com**
 - ⚡ Fun fact: I love playing Table Tennis and Computer/PvP games.
