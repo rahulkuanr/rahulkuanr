@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkuanr" alt="rahulkuanr" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://rahulkuanr.github.io/Personal-Site](https://rahulkuanr.github.io/Personal-Site)
-
-- 💬 Ask me about **MEARN, Sitecore**
 
 - 📫 How to reach me **rahulkuanr@gmail.com**
 
